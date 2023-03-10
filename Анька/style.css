@@ -1,0 +1,14 @@
+img {
+    cursor: pointer;
+  }
+
+  #flyjet {
+    width: 60px;
+    height: 80px;
+    transition: all 3s;
+  }
+
+  #flyjet.growing {
+    width: 300px;
+    height: 400px;
+  }
